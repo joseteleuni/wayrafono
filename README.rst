@@ -1,6 +1,6 @@
 
 
-.. image:: https://github.com/Star2Billing/a2billing/raw/master/common/images/logo/wayrafono.jpg
+.. image:: https://github.com/joseteleuni/wayrafono/raw/master/common/images/logo/wayrafono.jpg
 
 
 Wayrafono es un conmutador de telefonia y billing OpenSource . Capaz de proveer
