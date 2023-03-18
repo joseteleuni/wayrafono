@@ -1,41 +1,30 @@
 
 
-.. image:: https://github.com/Star2Billing/a2billing/raw/master/common/images/logo/a2billing.png
-
-A2Billing is a free and Open Source telecom switch and billing system capable
-of providing and billing a range of telecom products and services to customers
-such as calling card products, residential and wholesale VoIP termination,
-DID resale and callback services.
-
-A2Billing is commercially supported by Star2Billing S.L, where installation
-services, consultancy and support is available.
-
-see http://www.star2billing.com/ for more details
+.. image:: https://github.com/Star2Billing/a2billing/raw/master/common/images/logo/wayrafono.jpg
 
 
-.. image:: https://github.com/Star2Billing/a2billing/raw/master/a2billing_dashboard.png
+Wayrafono es un conmutador de telefonia y billing OpenSource . Capaz de proveer
+una interfaz de usuario para el cliente final y reseller de forma amigable .
+Todo a traves del core del proyecto Asterisk y Apache.
+Wayrafono es un fork del famoso sistema A2billing.
+
+Ver  http://wayrafono.com/ para mas detalles.
 
 
 Info
 ----
 
 * Bugs discussions
-    http://forum.asterisk2billing.org/
+    http://forum.wayrafono.com
 
 * Wiki version of installation
-    http://www.asterisk2billing.org/documentation/
-
-* Latest development version
-    https://github.com/Star2Billing/a2billing
-
-* Reporting Bugs
-    https://github.com/Star2Billing/a2billing/issues
+    http://wayrafono.com/wiki
 
 
 License
 -------
 
-Copyright (c) 2004-2015 Star2Billing S.L. <info@star2billing.com>
+Copyright (c) 2023  Wayrafono
 
 A2Billing is licensed under AGPL: http://www.gnu.org/licenses/agpl.html
 
@@ -43,6 +32,5 @@ A2Billing is licensed under AGPL: http://www.gnu.org/licenses/agpl.html
 Support
 -------
 
-Star2Billing S.L. offers consultancy including installation, training and customisation
-
-Please email us at sales@star2billing.com for more information
+WayraFono ofrece proyectos de telefonia IP para pymes y mypes , ademas de customatizacion del proyecto presente.
+Mas informes a : info@wayrafono.com
